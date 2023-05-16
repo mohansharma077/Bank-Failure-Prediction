@@ -28,7 +28,7 @@
 <li>Early Warning Signals</li>
 <p>Bank failure prediction models are designed to identify early warning signals of financial distress.</p>
 
-Modeling:
+**Modeling:**
 
 Use the sample data to answer:
 
