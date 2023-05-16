@@ -20,6 +20,13 @@ These models help assess the financial health and stability of banks by analyzin
 **Regulatory Oversight:**
 Bank failure prediction models assist regulatory authorities in monitoring and supervising banks effectively. By identifying banks at risk of failure, regulators can implement appropriate regulatory measures, such as increased scrutiny, capital requirements, or intervention, to safeguard the financial system's stability.
 
+
+**Economic Stability**
+The failure of a bank can have significant ripple effects on the wider economy. It can disrupt lending activities, create financial panic, and lead to a loss of confidence in the banking system. By predicting bank failures, policymakers can implement timely interventions, such as providing liquidity support or facilitating bank resolutions, to minimize the negative impact on the economy.
+
+**Early Warning Signals:**
+Bank failure prediction models are designed to identify early warning signals of financial distress.
+
 Modeling:
 
 Use the sample data to answer:
