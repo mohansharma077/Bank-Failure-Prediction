@@ -9,8 +9,8 @@
 ![download](https://github.com/mohansharma077/Bank-Failure-Prediction/assets/104629829/f21a3b28-fe96-4252-90e4-2adbb6e57fcb)
 
 <br>
-**Bank failure prediction can help address several problems in the short term, including**
-<br/>
+****Bank failure prediction can help address several problems in the short term, including****
+
 **Early Warning System**
 Bank failure prediction models serve as an early warning system to detect signs of financial distress in banks. By identifying potential risks and vulnerabilities, banks and regulatory authorities can take proactive measures to prevent failures and mitigate their impact.
 
