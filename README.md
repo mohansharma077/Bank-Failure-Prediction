@@ -11,9 +11,9 @@
 <br>
 <h3>Bank failure prediction can help address several problems in the short term, including<h3/>
   
-**Early Warning System**
+<li>Early Warning System</li>
   
-Bank failure prediction models serve as an early warning system to detect signs of financial distress in banks. By identifying potential risks and vulnerabilities, banks and regulatory authorities can take proactive measures to prevent failures and mitigate their impact.
+<p>Bank failure prediction models serve as an early warning system to detect signs of financial distress in banks. By identifying potential risks and vulnerabilities, banks and regulatory authorities can take proactive measures to prevent failures and mitigate their impact.</p>
 
 **Risk Assessment:**</br>
 These models help assess the financial health and stability of banks by analyzing key indicators. This enables stakeholders, such as investors, depositors, and regulators, to make informed decisions regarding their involvement with a particular bank.
